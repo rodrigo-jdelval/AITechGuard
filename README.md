@@ -123,6 +123,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have questions or suggestions, feel free to reach out:
 
-- **Name**: [Your Name]
-- **Email**: [your-email@domain.com]
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Name**: [Rodrigo Jiménez del Val]
+- **Email**: [rodrigo.jdelval@gmail.com]
+- **GitHub**: [rodrigo-jeelval](https://github.com/rodrigo-jdelval)
