@@ -1,6 +1,6 @@
 # PoC AITechGuard: AI Technologies Security Recommendations Analyzer
 
-AITechGuard is a tool designed to analyze and generate security recommendations for cloud environments, specifically for technologies like **Microsoft Azure**, **AWS**, and **Google Cloud**. The tool uses an advanced language model (LLM) to provide detailed, prioritized, and framework-based security recommendations, such as MITRE ATT&CK.
+AITechGuard is a tool designed to analyze and generate security recommendations for cloud environments, specifically for technologies like **Microsoft Azure**, **AWS**, and **Google Cloud**. The tool uses an advanced language model (LLM) to provide python code to verify actual state, cost / benefit analisys and prioritized implementation plan of the selected framework-based recommendations.
 
 ## Key Features
 
@@ -75,6 +75,8 @@ streamlit run app.py
 - Python Dependencies will be showned.
 - Needed permissions will be showned.
 - Provide credentials (Subscription ID, Client ID, Client Secret, Tenant ID) and execute the generated code.
+- Execute Python code outside the application.
+- Paste results in the application.
 
 ### Step 7: Cost-Benefit Analysis
 - Get a detailed analysis of the cost and benefit of implementing the recommendations.
@@ -85,7 +87,7 @@ streamlit run app.py
 ## Project Structure
 
 ```
-CloudGuard/
+AITechGuard/
 ├── app.py                  # Main application code
 ├── README.md               # Project documentation
 ├── requirements.txt        # Project dependencies
@@ -128,4 +130,4 @@ If you have questions or suggestions, feel free to reach out:
 
 - **Name**: [Rodrigo Jiménez del Val]
 - **Email**: [rodrigo.jdelval@gmail.com]
-- **GitHub**: [rodrigo-jeelval](https://github.com/rodrigo-jdelval)
+- **GitHub**: [rodrigo-jdelval](https://github.com/rodrigo-jdelval)
