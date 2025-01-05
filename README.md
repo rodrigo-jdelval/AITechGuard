@@ -139,7 +139,7 @@ Contributions are welcome! If you want to improve CloudGuard, follow these steps
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details.
 
 ## Contact
 
