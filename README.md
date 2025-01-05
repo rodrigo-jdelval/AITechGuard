@@ -1,4 +1,4 @@
-# AITechGuard: AI Technologies Security Recommendations Analyzer
+# PoC AITechGuard: AI Technologies Security Recommendations Analyzer
 
 AITechGuard is a tool designed to analyze and generate security recommendations for cloud environments, specifically for technologies like **Microsoft Azure**, **AWS**, and **Google Cloud**. The tool uses an advanced language model (LLM) to provide detailed, prioritized, and framework-based security recommendations, such as MITRE ATT&CK.
 
