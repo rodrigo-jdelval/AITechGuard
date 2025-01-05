@@ -1,4 +1,4 @@
-# PoC AITechGuard: AI Technologies Security Recommendations Analyzer
+# PoC AITechGuard: AI driven Cloud Technologies CyberSecurity Analyzer
 
 ## Abstract
 
