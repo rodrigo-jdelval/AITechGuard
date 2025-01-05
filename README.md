@@ -1,6 +1,7 @@
 # PoC AITechGuard: AI Technologies Security Recommendations Analyzer
 
-AITechGuard is a tool designed to analyze and generate security recommendations for cloud environments, specifically for technologies like **Microsoft Azure**, **AWS**, and **Google Cloud**. The tool uses an advanced language model (LLM) to provide python code to verify actual state, cost / benefit analisys and prioritized implementation plan of the selected framework-based recommendations.
+AITechGuard is a tool designed to analyze and generate security recommendations for cloud environments, specifically for technologies like **Microsoft Azure**, **AWS**, and **Google Cloud**. The tool uses an advanced language model (LLM) to provide python code to verify actual state, cost / benefit analisys and prioritized implementation plan of the selected framework-based 
+recommendations.
 
 ## Key Features
 
@@ -22,9 +23,9 @@ To run CloudGuard, you will need:
 
 1. **Python 3.8 or higher**.
 2. **Streamlit**: Framework for the user interface.
-3. **LiteLLM**: To interact with the Groq language model.
+3. **LiteLLM**: To interact with the Groq language model. LLM provider can be changed.
 4. **Plotly**: To generate Gantt charts.
-5. **Groq API Key**: Set the `GROQ_API_KEY` environment variable with your API key.
+5. **Groq API Key**: Sign-up in Groq Cloud free service. Create a new API KEY. Set the `GROQ_API_KEY` environment variable with your API key.
 
 Install the dependencies by running:
 
