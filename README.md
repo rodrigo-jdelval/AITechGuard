@@ -1,4 +1,4 @@
-# PoC AITechGuard: AI-Powered Open Source Cloud Technologies CyberSecurity Analyzer
+# PoC AITechGuard: AI-driven Open Source Cloud Technologies CyberSecurity Analyzer
 
 ## Abstract
 
